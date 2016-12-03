@@ -1,6 +1,7 @@
 # VBA Snippets
 
 VBA code snippets for VSCode.
+This should be used in conjunction with the [VBScript](https://marketplace.visualstudio.com/items?itemName=luggage66.VBScript) extension as the language for VSCode
 <!-- TOC depthFrom:2 -->
 
 - [Snippets](#snippets)
@@ -25,6 +26,11 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ```
 ext install vba-snippets
 ```
+
+## Contributing
+Please fork this repository and contribute back using pull requests.
+
+Any contributions, large or small, major features, bugfixes and integration tests are welcomed and appreciated but will be thoroughly reviewed and discussed.
 
 ## Contacts
 You can contact me in the following ways: 
