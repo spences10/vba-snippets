@@ -2,16 +2,22 @@
     "name": "vba-snippets",
     "publisher": "spences10",
     "description": "Code snippets of vba for VSCode.",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "icon": "images/logo.png",
     "license": "MIT",
-    "engines": { "vscode": "0.10.x" },
-    "categories": ["Snippets"],
+    "engines": {
+        "vscode": "0.10.x"
+    },
+    "categories": [
+        "Snippets"
+    ],
     "contributes": {
-        "snippets": [{
-            "language": "vbscript",
-            "path": "./snippets/vbscript.json"
-        }]
+        "snippets": [
+            {
+                "language": "vbscript",
+                "path": "./snippets/vbscript.json"
+            }
+        ]
     },
     "repository": {
         "type": "git",
