@@ -1,0 +1,86 @@
+{
+    // DATA TYPES ===================================================
+    /*
+    Boolean
+    Integer
+    Long	
+    Single	
+    Double 
+    Currency	
+    Date	
+    String
+    Object	
+    Variant
+    */
+
+    "Boolean": {
+        "prefix": "Dimb",
+        "body": [
+            "Dim bol${1:varName} As Boolean"
+        ],
+        "description": "Boolean declaration"
+    },
+    "Integer": {
+        "prefix": "Dimi",
+        "body": [
+            "Dim int${1:varName} As Integer"
+        ],
+        "description": "Integer declaration"
+    },
+    "Long": {
+        "prefix": "Diml",
+        "body": [
+            "Dim lng${1:varName} As Long"
+        ],
+        "description": "Long declaration"
+    },
+    "Single": {
+        "prefix": "Dims",
+        "body": [
+            "Dim sng${1:varName} As Single"
+        ],
+        "description": "Single declaration"
+    },
+    "Double": {
+        "prefix": "Dimd",
+        "body": [
+            "Dim dbl${1:varName} As Double"
+        ],
+        "description": "Double declaration"
+    },
+    "Currency": {
+        "prefix": "Dimc",
+        "body": [
+            "Dim cur${1:varName} As Currency"
+        ],
+        "description": "Currency declaration"
+    },
+    "Date": {
+        "prefix": "Dimdt",
+        "body": [
+            "Dim dat${1:varName} As Date"
+        ],
+        "description": "Date declaration"
+    },
+    "String": {
+        "prefix": "Dims",
+        "body": [
+            "Dim str${1:varName} As String"
+        ],
+        "description": "String declaration"
+    },
+    "Object": {
+        "prefix": "Dimo",
+        "body": [
+            "Dim obj${1:varName} As Object"
+        ],
+        "description": "Object declaration"
+    },
+    "Variant": {
+        "prefix": "Dimv",
+        "body": [
+            "Dim bol${1:varName} As Variant"
+        ],
+        "description": "Variant declaration"
+    }
+}
