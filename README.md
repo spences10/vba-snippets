@@ -1,5 +1,7 @@
 # VBA Snippets
 
+[![Marketplace Version](http://vsmarketplacebadge.apphb.com/version/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets) [![Installs](http://vsmarketplacebadge.apphb.com/installs/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets) [![Rating](http://vsmarketplacebadge.apphb.com/rating/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets)
+
 VBA code snippets for VSCode.
 This should be used in conjunction with the [VBScript](https://marketplace.visualstudio.com/items?itemName=luggage66.VBScript) extension as the language for VSCode
 <!-- TOC depthFrom:2 -->

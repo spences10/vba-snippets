@@ -2,7 +2,7 @@
     "name": "vba-snippets",
     "publisher": "spences10",
     "description": "Code snippets of vba for VSCode.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "images/logo.png",
     "license": "MIT",
     "engines": {
