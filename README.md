@@ -1,5 +1,7 @@
 # VBA Snippets
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/vba-snippets.svg)](https://greenkeeper.io/)
+
 [![Marketplace Version](http://vsmarketplacebadge.apphb.com/version/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets) [![Installs](http://vsmarketplacebadge.apphb.com/installs/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets) [![Rating](http://vsmarketplacebadge.apphb.com/rating/spences10.vba-snippets.svg)](https://marketplace.visualstudio.com/items?itemName=spences10.vba-snippets)
 
 VBA code snippets for VSCode.
